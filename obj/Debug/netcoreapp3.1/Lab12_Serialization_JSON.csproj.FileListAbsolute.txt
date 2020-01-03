@@ -1,0 +1,13 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\bin\Debug\netcoreapp3.1\Lab12_Serialization_JSON.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\bin\Debug\netcoreapp3.1\Lab12_Serialization_JSON.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\bin\Debug\netcoreapp3.1\Lab12_Serialization_JSON.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\bin\Debug\netcoreapp3.1\Lab12_Serialization_JSON.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\bin\Debug\netcoreapp3.1\Lab12_Serialization_JSON.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\bin\Debug\netcoreapp3.1\Lab12_Serialization_JSON.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\obj\Debug\netcoreapp3.1\Lab12_Serialization_JSON.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\obj\Debug\netcoreapp3.1\Lab12_Serialization_JSON.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\obj\Debug\netcoreapp3.1\Lab12_Serialization_JSON.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\obj\Debug\netcoreapp3.1\Lab12_Serialization_JSON.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\obj\Debug\netcoreapp3.1\Lab12_Serialization_JSON.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab12_Serialization_JSON\obj\Debug\netcoreapp3.1\Lab12_Serialization_JSON.csproj.CopyComplete
